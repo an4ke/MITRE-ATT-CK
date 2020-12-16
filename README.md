@@ -32,3 +32,9 @@ Examples:
 [3- Firmware](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/dd-firmware-extract-1536x316.png?token=ARZEWBZ33CYOEH4SWGU4JHS73IUZQ)
 
 [4- Client Configuration](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/windows10os.png?token=ARZEWBYYX756GSOPGE5UFXK73IWW2)
+
+#### Gather Victim Identify Information
+
+```
+Employee names, emails address, Phones, etc
+```
