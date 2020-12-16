@@ -2,7 +2,7 @@
 
 ## RECONNAISSANCE
 
-#### Active Scanning
+### Active Scanning
 
 ```
 ICMP
@@ -12,7 +12,7 @@ Search Open Technical Databases [GitHub, GIT, pastebin]
 Search for informations as [domains, certs] 
 ```
 
-#### Gather victim host information
+### Gather victim host information
 
 ```
 1- Hardware - Ex: Model  - You get this information using google, photos in midia social with (devices model) 
@@ -33,7 +33,7 @@ Examples:
 
 [4- Client Configuration](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/windows10os.png?token=ARZEWBYYX756GSOPGE5UFXK73IWW2)
 
-#### Gather Victim Identify Information
+### Gather Victim Identify Information
 
 ```
 Employee names, emails address, Phones, etc
@@ -57,6 +57,8 @@ Credentials:
 
 `More passwords in company, are used easy pass for example: empresa@2020 or empresa@2019`
 
+
+### Gather Victim Network Information
 
 
 
