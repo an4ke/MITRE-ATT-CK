@@ -83,6 +83,10 @@ https://spyse.com/tools/company-lookup
 6-Network Security Appliances 
 ```
 
+Examples: 
+
+[1-Domain-Properties]
+
 
 OBSERVATIONS: 
 
