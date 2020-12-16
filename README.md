@@ -50,3 +50,10 @@ Employee Names:
 Email Addresses:
 
 [Email Address from Hunter.Io](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/email.png)
+
+Credentials: 
+
+[Creds](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/forbes-passwords.jpg)
+
+`More passwords in company, are used easy pass for example: empresa@2020 or empresa@2019`
+
