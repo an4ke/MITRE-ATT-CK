@@ -38,3 +38,8 @@ Examples:
 ```
 Employee names, emails address, Phones, etc
 ```
+
+Examples:
+
+[Employee names from linkedin](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/italiana.png)
+
