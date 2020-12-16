@@ -60,6 +60,19 @@ Credentials:
 
 ### Gather Victim Network Information
 
+```
+IP ranges
+Domain names
+```
+Tools and Online search
+
+`nmap, ping, dnslookup, whois`
+
+sites as these, you get more information from determined host
+
+https://securitytrails.com
+
+https://spyse.com/tools/company-lookup
 
 
 
