@@ -74,6 +74,14 @@ https://securitytrails.com
 
 https://spyse.com/tools/company-lookup
 
+```
+1-Domain Properties
+2-DNS
+3-Network Trust Dependencies
+4-Network Topology
+5-IP Addresses
+6-Network Security Appliances 
+```
 
 
 OBSERVATIONS: 
