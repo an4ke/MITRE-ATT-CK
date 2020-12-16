@@ -41,5 +41,12 @@ Employee names, emails address, Phones, etc
 
 Examples:
 
+Employee Names:
+
 [Employee names from linkedin](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/italiana.png)
 
+[Linkedin Information](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/81893a45-9fbb-41ef-a076-d5f465b1f7b7.jpg)
+
+Email Addresses:
+
+[Email Address from Hunter.Io](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/email.png)
