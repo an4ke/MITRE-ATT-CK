@@ -57,3 +57,10 @@ Credentials:
 
 `More passwords in company, are used easy pass for example: empresa@2020 or empresa@2019`
 
+
+
+
+
+OBSERVATIONS: 
+
+[common-cyber-attacks-per-industry](https://raw.githubusercontent.com/an4ke/MITRE-ATT-CK/main/img/common-cyber-attacks-per-industry.jpg)
