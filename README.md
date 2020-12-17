@@ -88,9 +88,21 @@ Examples:
 [1-Domain-Properties]
 
 -------------------------------------------------------------------------------------------------------------------------
-Gather Victim Org Information
+### Gather Victim Org Information
 
-TESTE
+```
+1- Business Relationships
+	 include a variety of details, including where key resources and infrastructure are housed. Physical locations may also indicate what legal jurisdiction and/or authorities the victim operates within.
+
+2- Determine Physical Locations
+	 including second or third-party organizations/domains (ex: managed service providers, contractors, etc.) that have connected (and potentially elevated) network access. This information may also reveal supply chains and shipment paths for the victim’s hardware and software resources.
+
+3- Identify Business Tempo
+	including operational hours/days of the week. This information may also reveal times/dates of purchases and shipments of the victim’s hardware and software resources.
+
+4- Identify roles
+	including identifiable information for key personnel as well as what data/resources they have access to.
+```
 
 
 
